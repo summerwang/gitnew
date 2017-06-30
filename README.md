@@ -1,8 +1,4 @@
 # gitnew
-<<<<<<< HEAD
-Creating a new branch is quick an simple. 
-=======
-Creating a new branch is quick and simple. 
->>>>>>> feature1
+Creating a new branch is quick and simple. I am so sad 
 Just git checkout -b dev
 
