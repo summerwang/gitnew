@@ -6,5 +6,8 @@ I try one
 =======
 I try two
 >>>>>>> feature1
+
+clear all the things here
+
 Just git checkout -b dev
 
